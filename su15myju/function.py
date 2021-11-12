@@ -9,13 +9,6 @@ import matplotlib as plt
 from PIL import Image
 
 
-# In[23]:
-
-
-#X = np.random.randint(0, 255, (256,256))
-
-
-# In[33]:
 
 
 #X.shape[0]
